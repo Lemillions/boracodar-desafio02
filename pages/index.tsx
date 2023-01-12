@@ -32,62 +32,62 @@ export const getStaticProps: GetStaticProps = async () => {
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
         {
           nome: "Sofá Margot II - Rosé",
           preco: 4000,
-          image: "../image.png",
-          gif: "../image.gif"
+          image: "./image.png",
+          gif: "./image.gif"
         },
       ]
     }

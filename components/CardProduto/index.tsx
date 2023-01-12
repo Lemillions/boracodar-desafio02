@@ -28,7 +28,7 @@ export default function CardProduto(props: propsProduto) {
     <Card>
       <ContainerImagem>
         <ImagemProduto src={gifMode ? produto.gif : produto.image} />
-        <SwitchImage src={gifMode ? "../close.svg" : "../vector.svg"} onClick={() => { setGifMode(!gifMode) }} />
+        <SwitchImage src={gifMode ? "./close.svg" : "./vector.svg"} onClick={() => { setGifMode(!gifMode) }} />
       </ContainerImagem>
       <ContainerInfo>
         <NomeProduto>
